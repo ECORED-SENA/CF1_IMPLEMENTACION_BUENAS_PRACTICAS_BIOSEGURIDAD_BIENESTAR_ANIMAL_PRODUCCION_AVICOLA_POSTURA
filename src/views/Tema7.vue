@@ -280,8 +280,8 @@
 
     figure(data-aos="zoom-in").mb-5
       .video.mb-1
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption(data-aos="zoom-in") <strong>Video</strong>: TEXTO
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/aGm2jwb-0M0" title="Bioseguridad y nutrición" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption(data-aos="zoom-in") <strong>Video</strong>: bioseguridad y nutrición.
     
     .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
       .col-lg-auto
@@ -635,8 +635,8 @@
 
         figure(data-aos="zoom-in")
           .video.mb-1
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-          figcaption(data-aos="zoom-in") <strong>Video</strong>: TEXTO
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/EPu7KLIGejs" title="Registros y recolección de datos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          figcaption(data-aos="zoom-in") <strong>Video</strong>: registros y recolección de datos.
 
     <!-- BLOQUE 5 -->
     Separador
@@ -668,8 +668,8 @@
 
     figure(data-aos="zoom-in").mb-5
       .video.mb-1
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption(data-aos="zoom-in") <strong>Video</strong>: TEXTO
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/R19cUHL1q_I" title="Alojamiento e ingreso en la producción de aves" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption(data-aos="zoom-in") <strong>Video</strong>: alojamiento e ingreso en la producción de aves.
 
     h4.mb-5.caja-titulos-cuarto-nivel(data-aos="fade-right") Procedimiento
 

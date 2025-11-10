@@ -151,8 +151,8 @@
 
     figure(data-aos="zoom-in")
       .video.mb-1
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption(data-aos="zoom-in") <strong>Video</strong>: TEXTO
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/siDV05TJCnA" title="Control sanitario en la producción avícola" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption(data-aos="zoom-in") <strong>Video</strong>: control sanitario en la producción avícola.
 
     <!-- BLOQUE 3 -->
     Separador
@@ -174,8 +174,8 @@
     
     figure(data-aos="zoom-in").mb-5
       .video.mb-1
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption(data-aos="zoom-in") <strong>Video</strong>: TEXTO
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/mVTYqfgvVpA" title="Conceptos y normatividad de bioseguridad en granjas avícolas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption(data-aos="zoom-in") <strong>Video</strong>: conceptos y normatividad de bioseguridad en granjas avícolas.
 
     .fondo___color_3
       .px-5
