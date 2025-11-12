@@ -18,7 +18,7 @@
     #t_6_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 6.1 Bebederos
 
-    p.mb-5 El agua representa entre el 60 % y 70 % del peso corporal del ave. Es un nutriente esencial que regula funciones clave como la digestión, la termorregulación, el metabolismo y la producción de huevos. Una gallina ponedora consume entre 200 y 300 mililitros diarios de agua, y esta cantidad puede aumentar hasta en un 30 % en climas cálidos. La temperatura ideal del agua es de 20 - 25 °C para pollitas y 15 - 20 °C para aves adultas. La falta de agua o el suministro de agua de mala calidad puede generar consecuencias graves:
+    p.mb-5 El agua representa entre el 60 % y el 70 % del peso corporal del ave. Es un nutriente esencial que regula funciones clave como la digestión, la termorregulación, el metabolismo y la producción de huevos. Una gallina ponedora consume entre 200 y 300 mililitros diarios de agua, y esta cantidad puede aumentar hasta en un 30 % en climas cálidos. La temperatura ideal del agua es de 20 - 25 °C para pollitas y 15 - 20 °C para aves adultas. La falta de agua o el suministro de agua de mala calidad puede generar consecuencias graves:
 
     .row.justify-content-center.mb-5
       .col-xl-10

@@ -403,7 +403,7 @@
             figure
               img(src="@/assets/curso/temas/img7.svg" style="max-width: 60px").m-auto
           .col
-            h3 Galpón de gallinas en pastoreo (free range o semi-intensivo)
+            h3 Galpón de gallinas en pastoreo (<em>free range o semi-intensivo</em>)
         
         p.mb-5 Este modelo combina un galpón de refugio con un área de pastoreo al aire libre, favoreciendo el bienestar animal y ofreciendo productos diferenciados como el “huevo feliz” o huevo campesino. A continuación, se detallan sus principales componentes:
 

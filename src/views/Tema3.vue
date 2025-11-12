@@ -299,7 +299,7 @@
                 <ul class="fa-ul estilo___ul mb-0">
                   <li class="mb-3"><span class="fa-li"><i class="fas fa-check-circle"></i></span>Mantener actualizados los registros y documentación sanitaria exigida.</li>
                   <li class="mb-3"><span class="fa-li"><i class="fas fa-check-circle"></i></span>Cumplir las resoluciones ICA aplicables (como 3651 de 2014, 3652 de 2014, 30292 de 2017, entre otras).</li>
-                  <li class="mb-3"><span class="fa-li"><i class="fas fa-check-circle"></i></span>Autorizar el ingreso del personal del ICA paraauditorías, vigilancia y toma de muestras.</li>
+                  <li class="mb-3"><span class="fa-li"><i class="fas fa-check-circle"></i></span>Autorizar el ingreso del personal del ICA para auditorías, vigilancia y toma de muestras.</li>
                   <li class="mb-0"><span class="fa-li"><i class="fas fa-check-circle"></i></span>No movilizar productos ni aves sin cumplir los requisitos sanitarios y permisos correspondientes.</li>
                 </ul>
               .col-xl-auto

@@ -118,12 +118,12 @@ export default {
           },
           {
             numero: '4.2',
-            titulo: 'Influenza Aviar (IA)',
+            titulo: 'Influenza aviar (IA)',
             hash: 't_4_2',
           },
           {
             numero: '4.3',
-            titulo: '<em>Salmonelosis Aviar</em>',
+            titulo: '<em>Salmonelosis aviar</em>',
             hash: 't_4_3',
           },
           {

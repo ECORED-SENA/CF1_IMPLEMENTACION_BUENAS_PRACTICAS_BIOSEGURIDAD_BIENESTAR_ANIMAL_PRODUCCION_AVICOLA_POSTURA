@@ -239,7 +239,7 @@
             figure.d-none.d-xl-block(data-aos="fade-right")
               img(src="@/assets/curso/temas/img19.svg" style="max-width: 220px").m-auto
           .col
-            h4 Lo invitamos a escuchar el siguiente Pódcast:
+            h4 Lo invitamos a escuchar el siguiente pódcast:
             TarjetaAudio.color-acento-contenido.mb-3(
               texto="Composición nutricional del huevo"
               :audio="require('@/assets/componentes/audios/Implementacion_buenas_practicas_bioseguridad_bienestar_animal_produccion_avicola_postura.mp3')"

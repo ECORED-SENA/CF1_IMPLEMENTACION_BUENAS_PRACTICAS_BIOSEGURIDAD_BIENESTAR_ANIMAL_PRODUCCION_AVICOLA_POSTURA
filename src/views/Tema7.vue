@@ -673,7 +673,7 @@
 
     h4.mb-5.caja-titulos-cuarto-nivel(data-aos="fade-right") Procedimiento
 
-    p.mb-5 A continuación, se detalla el procedimiento recomendado para la recepción de aves, abarcando las fases antes, durante y después de su llegada al galpón.
+    p.mb-5 A continuación, se detallan el procedimiento recomendado para la recepción de aves, abarcando las fases antes, durante y después de su llegada al galpón.
 
     TabsC.color-acento-contenido(data-aos="zoom-in").mb-5
       .py-3.py-md-4(titulo="Previo a la llegada")
@@ -692,7 +692,7 @@
               img(src='@/assets/curso/temas/img153.png', alt="" ).m-auto
           .col-xl-7.order-1.order-lg-2.mb-4.mb-lg-0
             h4.txt--purpura.mb-4 Durante la recepción
-            p.mb-0 Cumplir medidas estrictas para garantizar la integridad de las aves. Transportarlas únicamente después de la semana 16 de vida, según la normatividad vigente. Descargar en horarios frescos (5:00 - 7:00 a. m. o 4:00 - 6:00 p. m.), manipular con cuidado evitando golpes o amontonamientos. Contar las aves, revisar su estado sanitario y descartar las lesionadas o débiles. Trasladarlas al galpón con acceso inmediato a agua potable tratada o clorada.
+            p.mb-0 Cumplir medidas estrictas para garantizar la integridad de las aves. Transportarlas únicamente después de la semana 16 de vida, según la normatividad vigente. Descargar en horarios frescos (5:00 - 7:00 a. m. o 4:00 - 6:00 p. m.), manipular con cuidado, evitando golpes o amontonamientos. Contar las aves, revisar su estado sanitario y descartar las lesionadas o débiles. Trasladarlas al galpón con acceso inmediato a agua potable tratada o clorada.
       
       .py-3.py-md-4(titulo="Después de la recepción")
         .row.justify-content-center

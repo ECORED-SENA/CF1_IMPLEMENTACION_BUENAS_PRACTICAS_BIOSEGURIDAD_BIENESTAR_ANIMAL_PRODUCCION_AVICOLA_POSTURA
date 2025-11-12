@@ -17,7 +17,7 @@
               img(src='@/assets/curso/temas/img45.jpg', alt='' ).m-auto
           .col-xl
             <ul class="fa-ul estilo___ul mb-0">
-              <li class="mb-2"><span class="fa-li"><i class="fas fa-check-circle"></i></span>Influenza Aviar de alta patogenicidad (IAAP).</li>
+              <li class="mb-2"><span class="fa-li"><i class="fas fa-check-circle"></i></span>Influenza aviar de alta patogenicidad (IAAP).</li>
               <li class="mb-2"><span class="fa-li"><i class="fas fa-check-circle"></i></span>Enfermedad de Newcastle notificable / de alta virulencia.</li>
               <li class="mb-2"><span class="fa-li"><i class="fas fa-check-circle"></i></span><em>Salmonella</em> spp. (en aves).</li>
               <li class="mb-0"><span class="fa-li"><i class="fas fa-check-circle"></i></span>Otras enfermedades que puedan afectar producción, bienestar animal, salud pública (aunque no siempre declarables).</li>
@@ -115,9 +115,9 @@
         <!-- BLOQUE 2 -->
         Separador
         #t_4_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-          h2 4.2 Influenza Aviar (IA)
+          h2 4.2 Influenza aviar (IA)
         
-        p.mb-5 La Influenza Aviar es una enfermedad viral altamente contagiosa, causada por el virus de Influenza tipo A. Los subtipos de mayor interés sanitario son <strong>H5</strong> y <strong>H7</strong>, especialmente aquellos clasificados como de <strong>alta patogenicidad</strong>, por su capacidad para provocar brotes graves en aves.
+        p.mb-5 La influenza aviar es una enfermedad viral altamente contagiosa, causada por el virus de influenza tipo A. Los subtipos de mayor interés sanitario son <strong>H5</strong> y <strong>H7</strong>, especialmente aquellos clasificados como de <strong>alta patogenicidad</strong>, por su capacidad para provocar brotes graves en aves.
         
         .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
           .col-lg-auto
@@ -126,7 +126,7 @@
           .col
             h3 Características principales
         
-        p.mb-5 A continuación, se presenta los principales aspectos relacionados con la influenza aviar, incluyendo su naturaleza, síntomas, relevancia sanitaria y medidas de control aplicadas en Colombia para prevenir su propagación y mitigar los impactos productivos y comerciales.
+        p.mb-5 A continuación, se presentan los principales aspectos relacionados con la influenza aviar, incluyendo su naturaleza, síntomas, relevancia sanitaria y medidas de control aplicadas en Colombia para prevenir su propagación y mitigar los impactos productivos y comerciales.
 
         TabsC.color-acento-contenido.mb-5(data-aos="zoom-in")
           .py-3.py-md-4(titulo="Naturaleza")
@@ -136,7 +136,7 @@
                   img(src='@/assets/curso/temas/img54.png', alt="" ).m-auto
               .col-xl-7.order-1.order-lg-2.mb-4.mb-lg-0
                 h4.txt--purpura.mb-4 Naturaleza
-                p.mb-0 Es una enfermedad causada por virus de Influenza tipo A. Los subtipos de interés son <strong>H5</strong> y <strong>H7</strong>.
+                p.mb-0 Es una enfermedad causada por virus de influenza tipo A. Los subtipos de interés son <strong>H5</strong> y <strong>H7</strong>.
 
           .py-3.py-md-4(titulo="Síntomas clínicos")
             .row.justify-content-center
@@ -180,7 +180,7 @@
       .col
         h3 Signos de alarma en aves
     
-    p.mb-5 Deben estar atentos a los siguientes signos clínicos en las aves, ya que podrían indicar la presencia de Influenza Aviar:
+    p.mb-5 Deben estar atentos a los siguientes signos clínicos en las aves, ya que podrían indicar la presencia de influenza aviar:
 
     .row.align-items-center.m-0.mb-5.style___box_6(data-aos="zoom-in")
       .col-xl-auto
@@ -194,7 +194,7 @@
           <li class="mb-2"><span class="fa-li"><i class="fas fa-check-circle"></i></span>Presencia de estornudos, lagrimeo y ronquidos.</li>
           <li class="mb-2"><span class="fa-li"><i class="fas fa-check-circle"></i></span>Alteraciones en la producción de huevos, como disminución, cáscaras blandas o deformes.</li>
           <li class="mb-2"><span class="fa-li"><i class="fas fa-check-circle"></i></span>Coloración azulada en cresta, barbilla y patas.</li>
-          <li class="mb-0"><span class="fa-li"><i class="fas fa-check-circle"></i></span>Su vigilancia es esencial para mantener a Colombia libre de Influenza Aviar.</li>
+          <li class="mb-0"><span class="fa-li"><i class="fas fa-check-circle"></i></span>Su vigilancia es esencial para mantener a Colombia libre de influenza aviar.</li>
         </ul>
     
     .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
@@ -250,14 +250,14 @@
         figure.d-none.d-xl-block
           img(src='@/assets/curso/temas/img59.svg', alt='' ).m-auto
       .col-xl
-        p.mb-0 Como funcionarios de una autoridad ambiental, deben participar activamente en la vigilancia, detección y reporte de posibles brotes de Influenza Aviar. También es fundamental que promuevan la educación sanitaria en las comunidades rurales y apoyen la implementación de las medidas de control establecidas por las autoridades competentes.
+        p.mb-0 Como funcionarios de una autoridad ambiental, deben participar activamente en la vigilancia, detección y reporte de posibles brotes de influenza aviar. También es fundamental que promuevan la educación sanitaria en las comunidades rurales y apoyen la implementación de las medidas de control establecidas por las autoridades competentes.
 
     <!-- BLOQUE 3 -->
     Separador
     #t_4_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 4.3 <em>Salmonelosis Aviar</em>
+      h2 4.3 <em>Salmonelosis aviar</em>
     
-    p.mb-5 La <em>Salmonelosis Aviar</em> es una enfermedad bacteriana que afecta tanto la salud de las aves como la inocuidad de los productos avícolas, generando implicaciones sanitarias y comerciales importantes.
+    p.mb-5 La <em>Salmonelosis aviar</em> es una enfermedad bacteriana que afecta tanto la salud de las aves como la inocuidad de los productos avícolas, generando implicaciones sanitarias y comerciales importantes.
 
     .fondo___slider.mb-5
       .px-5
@@ -276,8 +276,8 @@
                 h4 Serotipo
                 h5 Características
                 <ul class="fa-ul estilo___ul mb-0">
-                  <li class="mb-1"><span class="fa-li"><i class="fas fa-check-circle"></i></span><em>S. Enteritidis</em> y <em>S. Typhimurium:</em> Son serotipos zoonóticos que pueden transmitirse a los humanos a través del consumo de huevos o carne contaminada.</li>
-                  <li class="mb-0"><span class="fa-li"><i class="fas fa-check-circle"></i></span><em>S. Gallinarum</em> y <em>S. Pullorum</em>: Son específicos de las aves y causan septicemias y alta mortalidad en pollitos, sin representar riesgo humano.</li>
+                  <li class="mb-1"><span class="fa-li"><i class="fas fa-check-circle"></i></span><em>S. Enteritidis</em> y <em>S. Typhimurium:</em> son serotipos zoonóticos que pueden transmitirse a los humanos a través del consumo de huevos o carne contaminada.</li>
+                  <li class="mb-0"><span class="fa-li"><i class="fas fa-check-circle"></i></span><em>S. Gallinarum</em> y <em>S. Pullorum</em>: son específicos de las aves y causan septicemias y alta mortalidad en pollitos, sin representar riesgo humano.</li>
                 </ul>
               .col-xl-6
                 figure.d-none.d-xl-block
@@ -306,7 +306,7 @@
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
                 h4 Impacto
-                p.mb-3  La Salmonelosis representa una amenaza directa para la sanidad aviar y la inocuidad de los alimentos, lo cual puede afectar negativamente el comercio.
+                p.mb-3  La salmonelosis representa una amenaza directa para la sanidad aviar y la inocuidad de los alimentos, lo cual puede afectar negativamente el comercio.
                 <ul class="fa-ul estilo___ul mb-0">
                   <li class="mb-1"><span class="fa-li"><i class="fas fa-check-circle"></i></span>Representa un problema de salud pública, ya que puede transmitirse a los humanos.</li>
                   <li class="mb-0"><span class="fa-li"><i class="fas fa-check-circle"></i></span>Genera restricciones comerciales al afectar la calidad sanitaria de los productos avícolas.</li>
@@ -395,7 +395,7 @@
                 caption Nota. La frecuencia puede variar según diagnóstico, condiciones sanitarias y asesoría veterinaria.
                 thead
                   tr
-                    th.ajuste-border-tabla Edad (Semana)
+                    th.ajuste-border-tabla Edad (semana)
                     th.ajuste-border-tabla Descripción de vacunas
                     th Vía de aplicación
                 tbody
