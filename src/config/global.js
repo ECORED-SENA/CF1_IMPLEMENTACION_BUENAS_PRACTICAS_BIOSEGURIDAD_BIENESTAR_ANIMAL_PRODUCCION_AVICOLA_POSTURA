@@ -280,7 +280,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/Avicola_CF01_DU.pdf',
+        download: 'downloads/Avicola_CF01_DU.zip',
       },
       {
         icono: 'fas fa-download',
@@ -481,12 +481,6 @@ export default {
         },
         {
           nombre: 'Alejandro Delgado Acosta',
-          cargo: 'Intérprete lenguaje de señas',
-          centro:
-            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
-        },
-        {
-          nombre: 'Cristhian Giovanni Gordillo Segura',
           cargo: 'Intérprete lenguaje de señas',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',

@@ -214,7 +214,7 @@
           figure(data-aos="fade-left")
             img(src="@/assets/curso/temas/img18.svg", alt='' style="max-width: 80px").m-auto
           h4.mb-0.text-center Inclusión de la mujer rural
-          p.mb-0 Muchas <strong>granja-familiares son gestionadas por mujeres</strong>,lo que fortalece su papel económico y social en el campo colombiano.
+          p.mb-0 Muchas <strong>granja-familiares son gestionadas por mujeres</strong>, lo que fortalece su papel económico y social en el campo colombiano.
 
     <!-- BLOQUE 4 -->
     Separador

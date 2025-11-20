@@ -673,7 +673,7 @@
 
     h4.mb-5.caja-titulos-cuarto-nivel(data-aos="fade-right") Procedimiento
 
-    p.mb-5 A continuación, se detallan el procedimiento recomendado para la recepción de aves, abarcando las fases antes, durante y después de su llegada al galpón.
+    p.mb-5 A continuación, se detalla el procedimiento recomendado para la recepción de aves, abarcando las fases antes, durante y después de su llegada al galpón.
 
     TabsC.color-acento-contenido(data-aos="zoom-in").mb-5
       .py-3.py-md-4(titulo="Previo a la llegada")
@@ -775,7 +775,7 @@
 
     h4.mb-5.caja-titulos-cuarto-nivel(data-aos="fade-right") Procedimiento
 
-    p.mb-5 A continuación, se detalla las acciones recomendadas para la revisión de tolvas, suplementación y control del consumo de alimento en aves de postura.
+    p.mb-5 A continuación, se detallan las acciones recomendadas para la revisión de tolvas, suplementación y control del consumo de alimento en aves de postura.
 
     .bg--img_03.mb-5
       .row.h-100.align-items-center
